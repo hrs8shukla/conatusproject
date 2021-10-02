@@ -1,4 +1,4 @@
-print("Inter A number from the following table") #Output statement
+print("Enter A number from the following table") #Output statement
 print("For Basic Input Output program enter 1")
 print("For Arithmatic calculation enter 2")
 print("For functions program enter 3")
