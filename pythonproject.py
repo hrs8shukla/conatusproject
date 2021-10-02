@@ -48,7 +48,7 @@ elif a==3 :
         n4=int(input("Enter the number to calculate factorial"))
         print("Factorial of",n4,"=",fact2(n4)) #Function call with n4 as argument
     else:
-        print("Input is wrong")
+        print("Wrong Input")
 elif a==4:
     print('for definite loop enter 1')
     print('for indefinite loop enter 2')
