@@ -26,7 +26,7 @@ elif a==3 :
     b=int(input())
     if b==1:    #Nested if
         print("Example of function without argument")
-        def fact1() : #function defination
+        def fact1() : #function defination (Factorial program using functions)
             num =int(input("Enter the number"))
             fact =1
             if num <0:
@@ -98,7 +98,7 @@ elif a==5:
             print("We dont do that here")
     elif b==5 :
         string2=input('Enter the second string')
-        print(string1 +" "+string2)     #String concatenation
+        print(string1 +" "+string2)     #String concatenation (It can be done by both + and * operator)
     elif b==6:
         c1=input('Enter character to be replaced ')
         c2=input('Enter character to replace')
