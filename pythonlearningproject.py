@@ -1,3 +1,4 @@
+print("Basic Mathematical calculator")
 print("Enter A number from the following table") #Output statement
 #print("Enter A number from the following table") #Output statement
 print("For Basic Input Output program enter 1")
