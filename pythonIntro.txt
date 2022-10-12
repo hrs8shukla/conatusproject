@@ -4,3 +4,4 @@ make it very attractive for Rapid Application Development, as well as for use as
 Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance.
 The Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms, and can be freely distributed.
 Python is very poplular language.This is the text file which is being made lengthy for no reason. 
+I have nothing to say at all.
