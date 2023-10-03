@@ -1,3 +1,3 @@
 # conatusproject 
 Python basic program
-Python basic program in detail
+Python basic program in detail to learn python.
